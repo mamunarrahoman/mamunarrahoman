@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mamunar/project?authuser=0](https://sites.google.com/view/mamunar/project?authuser=0)
 
-- 💬 Ask me about **verilog HDL**
-
 - 📫 How to reach me **mamunar.rahoman28@gmail.com**
 
 - 📄 Know about my experiences [https://sites.google.com/view/mamunar/about-me?authuser=0](https://sites.google.com/view/mamunar/about-me?authuser=0)
