@@ -8,8 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mamunar/project?authuser=0](https://sites.google.com/view/mamunar/project?authuser=0)
 
-- 📫 How to reach me **mamunar.rahoman28@gmail.com**
+- 📫 How to reach me                     **mamunar.rahoman28@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/mamunar/about-me?authuser=0](https://sites.google.com/view/mamunar/about-me?authuser=0)
+- 📄 Know about my experiences           [https://sites.google.com/view/mamunar/about-me?authuser=0](https://sites.google.com/view/mamunar/about-me?authuser=0)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamunarrahoman&show_icons=true&locale=en" alt="mamunarrahoman" /></p>
